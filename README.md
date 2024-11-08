@@ -108,11 +108,11 @@ If you find our work or this repository useful, please consider citing our work:
 @ARTICLE{10663702,
   author={Zhang, Yi and Zeng, Bolun and Li, Jia and Zheng, Yuanyi and Chen, Xiaojun},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
-  title={A Multi-Task Transformer with Local-Global Feature Interaction and Multiple Tumoral Region Guidance for Breast Cancer Diagnosis}, 
+  title={A Multi-Task Transformer With Local-Global Feature Interaction and Multiple Tumoral Region Guidance for Breast Cancer Diagnosis}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-14},
-  keywords={Breast cancer diagnosis;Transformer;Local-global interactions;Multi-task learning;Ultrasound imaging},
+  volume={28},
+  number={11},
+  pages={6840-6853},
+  keywords={Image segmentation;Tumors;Multitasking;Transformers;Breast cancer;Ultrasonic imaging;Feature extraction;Breast cancer diagnosis;transformer;local-global interactions;multi-task learning;ultrasound imaging},
   doi={10.1109/JBHI.2024.3454000}}
 ~~~

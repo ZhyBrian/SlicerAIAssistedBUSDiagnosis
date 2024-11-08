@@ -3,6 +3,7 @@ import os
 import requests
 import time
 
+import slicer.util
 import vtk
 
 import slicer
